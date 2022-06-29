@@ -5,3 +5,15 @@
 body{
     font-family: "poppins";
 }
+.firstlist--items:hover{
+    background-color:#B4CD93 ;
+}
+.secondlist--items:hover{
+    background-color: #B4CD93;
+}
+.first-b{
+    background-color: #B4CD93;
+}
+.second-b{
+    background-color: #B4CD93;
+}
